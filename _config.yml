@@ -1,4 +1,4 @@
-title: Jim AI
+title: Jim AI Dev
 author:
   name: JimKwi1kX
   email: Jimkw1kX@pm.me
@@ -16,10 +16,8 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
-remote_theme: "jekyll/minima@1e8a445"
 
-
-# minima:
+minima:
 #   # Minima skin selection. Available skins are:
 #   #   Available skins:
 #   #     * classic            Default, light color scheme.
@@ -28,7 +26,7 @@ remote_theme: "jekyll/minima@1e8a445"
 #   #     * solarized-light    Light variant of solarized color scheme.
 #   #     * solarized-dark     Dark variant of solarized color scheme.
 #   #     * solarized          Adaptive skin for solarized color scheme skins.
-#   skin: classic
+  skin: classic
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
