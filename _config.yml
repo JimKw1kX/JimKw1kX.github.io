@@ -16,6 +16,9 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
+remote_theme: "jekyll/minima@1e8a445"
+
+
 minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
