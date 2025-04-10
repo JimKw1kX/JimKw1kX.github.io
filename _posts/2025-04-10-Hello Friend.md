@@ -15,17 +15,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-# About Me
-
-I'm an Offensive Security Engineer with expertise in malware development, red teaming, penetration testing, and AI-driven security solutions. Passionate about cybersecurity research and AI/ML and LLM. I like software development for offensive security and AI.
-
-My [Github page](https://github.com/JimKw1kX)
-
-```js
-def print_hi(name)
-  puts "Hi, #{JS}"
-end
-print_hi('Tom')
-prints 'Hi, Tom' to STDOUT.
-```
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
