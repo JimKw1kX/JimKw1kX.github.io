@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+# About Me
+I'm an Offensive Security Engineer with expertise in malware development, red teaming, penetration testing, and AI-driven security solutions. Passionate about cybersecurity research and AI/ML and LLM. I like software development for offensive security and AI.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My [Github page](https://github.com/JimKw1kX)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
