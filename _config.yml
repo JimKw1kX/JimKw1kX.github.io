@@ -51,9 +51,12 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: Minima Theme repository at GitHub
+    - title: GitHub
       icon: github
       url: "https://github.com/JimKw1kX"
-    - title: Jekyll at X (formerly Twitter)
+    - title: at X (formerly Twitter)
       icon: x-twitter
       url: "https://x.com/JimKwik_X"
+    - title: Linkedin
+      icon: fa-linkedin
+      url: "https://www.linkedin.com/in/jimsolomonx"
